@@ -1,0 +1,8 @@
+Model: transformer_seq30_h128_l2_heads4
+Type: Transformer (layers=2, heads=4)
+Sequence Length: 30
+Seed Text: To be, or not to be, that is the question:
+
+Generated Text:
+t to be, that is the question:
+The shall be the so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so

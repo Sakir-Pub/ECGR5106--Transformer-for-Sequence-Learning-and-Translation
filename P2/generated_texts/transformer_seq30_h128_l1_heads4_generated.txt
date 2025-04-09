@@ -1,0 +1,10 @@
+Model: transformer_seq30_h128_l1_heads4
+Type: Transformer (layers=1, heads=4)
+Sequence Length: 30
+Seed Text: Now is the winter of our discontent made glorious summer by this sun of York.
+
+Generated Text:
+us summer by this sun of York.
+
+KING RICHARD III:
+What is the shall be the shall be the shall be the shall be the shall be the shall be the shall be the shall be the shall be the shall be the shall be the shall be the shall be the

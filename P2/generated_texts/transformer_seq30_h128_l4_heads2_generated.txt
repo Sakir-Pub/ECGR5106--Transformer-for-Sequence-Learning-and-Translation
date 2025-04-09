@@ -1,0 +1,10 @@
+Model: transformer_seq30_h128_l4_heads2
+Type: Transformer (layers=4, heads=2)
+Sequence Length: 30
+Seed Text: Now is the winter of our discontent made glorious summer by this sun of York.
+
+Generated Text:
+us summer by this sun of York.
+
+PETRUCHIO:
+I may be the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea the sea th

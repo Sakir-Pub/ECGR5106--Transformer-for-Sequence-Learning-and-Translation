@@ -1,0 +1,10 @@
+Model: transformer_seq30_h128_l1_heads2
+Type: Transformer (layers=1, heads=2)
+Sequence Length: 30
+Seed Text: All the world's a stage, and all the men and women merely players.
+
+Generated Text:
+ men and women merely players.
+
+CORIOLANUS:
+The shall the with the with the with the with the with the with the with the with the with the with the with the with the with the with the with the with the with the with the with the w

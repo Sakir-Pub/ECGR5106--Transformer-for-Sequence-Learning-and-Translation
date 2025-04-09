@@ -1,0 +1,13 @@
+Model: transformer_seq50_h128_l2_heads2
+Type: Transformer (layers=2, heads=2)
+Sequence Length: 50
+Seed Text: All the world's a stage, and all the men and women merely players.
+
+Generated Text:
+a stage, and all the men and women merely players.
+
+PETRUCHIO:
+The shall be the shall be the shall be the souls
+The shall be the shall be the shall be the souls
+The shall be the shall be the shall be the souls
+The shall be the shall be the shall be t

@@ -1,0 +1,10 @@
+Model: transformer_seq30_h128_l4_heads4
+Type: Transformer (layers=4, heads=4)
+Sequence Length: 30
+Seed Text: The quality of mercy is not strained. It droppeth as the gentle rain from heaven.
+
+Generated Text:
+s the gentle rain from heaven.
+
+PETRUCHIO:
+I will be the seated the seated the seated the seated the seated the seated the seated the seated the seated the seated the seated the seated the seated the seated the seated the seated t

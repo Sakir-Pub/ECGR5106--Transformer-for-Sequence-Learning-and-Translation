@@ -1,0 +1,16 @@
+{
+    "French-to-English": {
+        "RNN": 0.27125506072874495,
+        "Best Transformer_L2_H2": 0.9534412955465587
+    },
+    "English-to-French": {
+        "rnn": 0.22438162544169613,
+        "transformer": 0.9381625441696113
+    },
+    "Best French-to-English": {
+        "Best Transformer_L2_H2": 0.9534412955465587
+    },
+    "Best English-to-French": {
+        "transformer": 0.9381625441696113
+    }
+}

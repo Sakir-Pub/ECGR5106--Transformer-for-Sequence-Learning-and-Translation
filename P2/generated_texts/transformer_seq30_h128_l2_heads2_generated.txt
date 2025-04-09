@@ -1,0 +1,10 @@
+Model: transformer_seq30_h128_l2_heads2
+Type: Transformer (layers=2, heads=2)
+Sequence Length: 30
+Seed Text: All the world's a stage, and all the men and women merely players.
+
+Generated Text:
+ men and women merely players.
+
+KING EDWARD IV:
+What thou shall be the so so so make the soul to the so so make the soul to the so so make the soul to the so so make the soul to the so so make the soul to the so so make the soul t
